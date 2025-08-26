@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 # RAED & mfaraj57 &  (c) 2018
-# mod Lululla 20240720
+# mod speedy005 20240720
 
 from __future__ import print_function
 # from . import _

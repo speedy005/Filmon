@@ -21,7 +21,7 @@ Modified for KodiDirect and IPTVworld by pcd
 """
 # updated by pcd@xtrend-alliance 20140906##
 # 20180829 - back to v4.0 last version for mobdro (startecmob##
-# recoded lululla 20220922
+# recoded speedy00520220922
 import sys
 import threading
 import time

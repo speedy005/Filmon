@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # 30.03.2024
-# a common tips used from Lululla
+# a common tips used from speedy005
 
 from Components.config import config
 from enigma import getDesktop

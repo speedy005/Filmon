@@ -57,8 +57,8 @@ msgid "Play/pause not supported for this stream"
 msgstr "Wiedergabe/Pause wird für diesen Stream nicht unterstützt"
 
 #: plugin.py:1246 plugin.py:1319
-msgid "WELCOME TO FILMON PLUGIN BY LULULLA"
-msgstr "WILLKOMMEN BEI FILMON PLUGIN BY LULULLA"
+msgid "WELCOME TO FILMON PLUGIN BY speedy005"
+msgstr "WILLKOMMEN BEI FILMON PLUGIN BY speedy005"
 
 #, python-format
 #~ msgid ""

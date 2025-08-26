@@ -7,8 +7,8 @@ from __future__ import print_function
 #                                                       #
 #  Filmon Plugin                                        #
 #  Version: 2.4                                         #
-#  Created by Lululla                                   #
-#  mod by Lululla                                   #
+#  Created by speedy005                                   #
+#  mod by speedy005                                     #
 #  License: GPL-3.0-or-later                            #
 #  https://www.gnu.org/licenses/gpl-3.0.html            #
 #  Last Modified: 15:14 - 2025-08-24                    #
@@ -22,7 +22,7 @@ from __future__ import print_function
 #    - User-friendly interface                          #
 #                                                       #
 #  Credits:                                             #
-#    - Original development by Lululla                  #
+#    - Original development by speedy005                #
 #                                                       #
 #  Usage of this code without proper attribution        #
 #  is strictly prohibited.                              #
@@ -30,7 +30,7 @@ from __future__ import print_function
 #  please maintain this credit header.                  #
 #########################################################
 """
-__author__ = "Lululla"
+__author__ = "speedy005"
 
 from json import loads as json_loads
 from os import makedirs, remove
@@ -1848,3 +1848,4 @@ def Plugins(**kwargs):
     result.append(extDescriptor)
     result.append(setupDescriptor)
     return result
+
